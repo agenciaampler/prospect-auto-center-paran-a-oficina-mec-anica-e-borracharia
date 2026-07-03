@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina em Cidade Industrial de Curitiba",
+    "hero_line": "Barulho, luz no painel ou revisão: comece pelo WhatsApp e entenda o próximo passo.",
+    "services_headline": "Do sintoma ao agendamento, sem enrolação.",
+    "services_intro": "A página da Auto Center Paraná - Oficina Mecânica e Borracharia mostra serviços, localização e WhatsApp em uma jornada simples, pensada para conversã…",
+    "split_headline": "Explique o que mudou no carro.",
+    "confidence_headline": "Auto Center Paraná - Oficina Mecânica e Borracharia: nota 4,8 no Google, endere…",
+    "location_headline": "Rota para a Auto Center Paraná - Oficina Mecânica e Borracharia em Cidade Indus…",
+    "steps_headline": "Veja, chame e agende.",
+    "faq_headline": "Dúvidas antes de chamar no WhatsApp.",
+    "service_cards": [
+        {
+            "title": "Barulhos e falhas",
+            "body": "Explique o sintoma e receba orientação para o próximo passo.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Segurança ao rodar",
+            "body": "Freios, pneus e suspensão recebem destaque para decisão rápida.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão sem susto",
+            "body": "Organize a manutenção antes que o carro pare na rotina.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Primeira orientação rápida",
+            "body": "A Auto Center Paraná - Oficina Mecânica e Borracharia recebe o caso pelo WhatsApp e indica o melhor próximo passo.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Atendimento para carros populares e multimarcas",
+            "body": "Marcas como Fiat, Chevrolet, Volkswagen, Renault, Hyundai aparecem com clareza na página.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Localização evidente",
+            "body": "Mapa, rota e bairro ajudam quem está perto de Cidade Industrial de Curitiba a decidir.",
+            "icon": "ph-map-pin"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Como peço um orçamento?",
+            "answer": "Chame a Auto Center Paraná - Oficina Mecânica e Borracharia pelo WhatsApp, envie modelo, ano e descreva o problema."
+        },
+        {
+            "question": "Quais carros atende?",
+            "answer": "A página destaca Fiat, Chevrolet, Volkswagen, Renault, Hyundai. A oficina confirma seu modelo pelo WhatsApp."
+        },
+        {
+            "question": "Onde fica?",
+            "answer": "Av. Juscelino Kubitschek de Oliveira - Ld, 10285 - Cidade Industrial de Curitiba, Curitiba - PR, 81170-300"
+        },
+        {
+            "question": "Por que essa página ajuda?",
+            "answer": "Ela organiza serviços, localização, marcas e contato para facilitar decisão e leitura por buscadores/IAs."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Recorte mobile com oficina em dia claro e area limpa para texto de Auto Center Paraná - Oficina Mecânica e Borracharia.",
+        "hero_desktop": "Hero desktop com pessoa/carro à direita e respiro à esquerda para copy.",
+        "service_1": "Diagnostico ou atendimento tecnico em oficina limpa e seca.",
+        "service_2": "Freios, pneus ou suspensao com foco em seguranca.",
+        "trust": "Atendimento humano e consultivo, pessoas diferentes do hero.",
+        "og_image": "Preview limpo para WhatsApp com oficina em dia claro."
+    },
+    "quality_checks": [
+        "Hero curto e sem texto sobre rosto ou carro principal.",
+        "CTA de WhatsApp visivel no mobile.",
+        "Servicos, bairro, marcas, mapa e FAQ claros para SEO/GEO."
+    ],
+    "created_by": "local-batch:reuse-images",
+    "created_at": "2026-07-03T07:43:17-03:00"
+}
